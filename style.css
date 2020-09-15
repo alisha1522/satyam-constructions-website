@@ -16,7 +16,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
-
+.
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -652,7 +652,7 @@ h1, h2, h3, h4, h5, h6 {
 # About Boxes
 --------------------------------------------------------------*/
 .about-boxes {
-  background: url("about-boxes-bg.jpg") center top no-repeat fixed;
+  background: url("images/silhouette-of-man-holding-onto-metal-frame-3609139-min.jpg") center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 30px 0;
   position: relative;
